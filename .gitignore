@@ -1,6 +1,22 @@
-/node_modules
-/dist
+# OSX
+#
+.DS_Store
+
+# Visual Studio Code
+#
+.vscode/
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# build dirs
+#
 /build
 
+# package manager lock files
+#
 yarn.lock
 package-lock.json
